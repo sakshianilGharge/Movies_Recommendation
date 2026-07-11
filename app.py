@@ -16,7 +16,6 @@ st.set_page_config(
 )
 
 movies = pickle.load(open("movie_list.pkl", "rb"))
-df = pd.read_csv("movies.csv")
 if os.path.exists("similarities.pkl"):
     similarities=pickle.load(open("similarities.pkl", "rb"))
 else:
