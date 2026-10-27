@@ -271,7 +271,7 @@ if page == "Home":
 
     st.markdown("""
     <div class='footer'>
-    Developed by <b>Sakshi Anil Gharge</b>
+    Developed by <b>Diksha Dilip Patil</b>
     </div>
     """, unsafe_allow_html=True)
 
