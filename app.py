@@ -555,7 +555,7 @@ elif page == "About":
     st.markdown("""
     <div class="glass" style="text-align:center;">
     <h2>Developer</h2>
-    <h3>Sakshi Anil Gharge</h3>
+    <h3>Diksha Dilip Patil</h3>
     <p>
     BCA Student | AI & Machine Learning Enthusiast
     </p>
